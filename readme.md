@@ -8,6 +8,16 @@ try it out here: http://partkart.com
 
 or here: http://makercam.com
 
-some instructions and background on this CNCzone thread:
+some discussion on this old CNCzone thread: http://www.cnczone.com/forums/opensource-software/106198-partkam-free-crossplatform-2-5d-cam.html
 
-http://www.cnczone.com/forums/opensource-software/106198-partkam-free-crossplatform-2-5d-cam.html
+
+![quick guide](http://partkart.com/quickguide.gif)
+
+An offset algorithm that leverages the flash rasterizer
+
+![offset algo](http://partkart.com/butterfly.gif)
+
+A simple nesting system based on raster-collision detection
+
+![nesting](http://partkart.com/nesting.gif)
+
